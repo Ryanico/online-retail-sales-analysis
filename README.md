@@ -167,5 +167,5 @@ It demonstrates the process of transforming raw transactional data into meaningf
 ---
 
 **Project Type:** Independent Data Analytics Portfolio Project  
-**Tools:** Python, Pandas, NumPy, Matplotlib and Power BI  
+**Tools:** Python, Pandas, Matplotlib and Power BI  
 **Dataset:** Online Retail – Kaggle
